@@ -9,8 +9,6 @@ html, body {
 
 .container {
     display: flex;
-    height:100vh;
-    justify-content:center;
     flex-direction: column;
     max-width: 320px;
     margin: 30px auto;
